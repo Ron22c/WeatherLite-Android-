@@ -21,9 +21,7 @@ import android.widget.Toast;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.JsonHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
-import com.ron.cranajit.weatherlite.ChangeCityController;
-import com.ron.cranajit.weatherlite.R;
-import com.ron.cranajit.weatherlite.WeatherDataModel;
+import com.ron.cranajit.weatherlited.R;
 
 import org.json.JSONObject;
 
